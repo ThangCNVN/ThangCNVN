@@ -4,7 +4,7 @@ Welcome to my GitHub repository dedicated to malware analysis! Here, malware is 
 
 ## About Me 🕵️‍♂️
 
-I am a passionate malware analyst, constantly exploring the realms of cybersecurity. My mission is to unravel the secrets of malware and contribute to a safer digital landscape.
+I am a passionate malware analyst (kinda), constantly exploring the realms of cybersecurity. I just love to play around with malware and security stuff!
 
 ## What You'll Find Here 📁
 
