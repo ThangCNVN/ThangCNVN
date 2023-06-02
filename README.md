@@ -17,7 +17,7 @@ In this repository, you'll find a collection of malware samples, analysis report
 - Static Analysis: Disassemblers, debuggers, and code analysis techniques.
 - Reverse Engineering: Tools and methodologies for understanding binary structures.
 - Network Forensics: Capturing and analyzing network traffic.
-- Malware Analysis Frameworks: Cuckoo Sandbox, REMnux, Ghidra, and more.
+- Malware Analysis Frameworks: REMnux, Ghidra, and more.
 
 ## What im learning right now
 
